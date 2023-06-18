@@ -12,7 +12,7 @@ The following cloud technologies and Devops tools were used-
 ## PROBLEM STATEMENT
 A hotel chain has a rule of taking COVID-19 test information(test pdf) of guests checking in and storing this information using a database for guest information and pdf metadata. They are having scalability issues with their architecture
 Below is the existing architecture - 
-![Old architecture](/images/old_architecture.png)
+![Old architecture](/images/old_achitecture.png)
 
 The hotel chain has decided to migrate this application to a public cloud and have decided to use a multicloud setup to get a cost efficient solution. 
 The solutions architect has designed the following solution - 
@@ -30,10 +30,14 @@ The solutions architect has designed the following solution -
 
 ## RESULT
 The final application running on the new architecture is shown in the following pictures. 
+Website Home Page
 ![Website Landing Page](/images/landing_page.png)
 
+The Existing Guest List
 ![View Guest List](/images/guest_list.png)
 
+Adding new Guest Information
 ![Adding new Guest information](/images/adding_new_guest.png)
 
+Opening the pdf file through the link for a guest
 ![Testing pdf File link](/images/testing_pdf_file.png)
